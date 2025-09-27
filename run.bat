@@ -25,5 +25,6 @@ if errorlevel 1 (
 )
 
 python bad_apple.py
-
+python Twinkrcs.rcsg
 pause
+
